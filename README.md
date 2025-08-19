@@ -19,9 +19,6 @@ Writing a physics engine forces you to bring together multiple skills:
 - Programming: data structures, loops, functions, modular design.
 - Systems: drawing and refreshing output efficiently in a terminal.
 
-This is why Gravitas makes a strong portfolio piece. It shows an ability to
-translate mathematical ideas into working C code that runs in real time.
-
 # Key Components
 
 1. Vector2 Library
